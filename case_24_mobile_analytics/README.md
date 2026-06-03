@@ -1,4 +1,4 @@
-# Case 24 — Mobile App Analytics
+# Mobile App Analytics
 
 ## Overview
 Analysis of a mobile app user base to identify drop-off points and improve conversion.
