@@ -50,7 +50,7 @@ A product manager needs data-driven answers about user behaviour and retention.
 ## Files
 | File | Description |
 |---|---|
-| `Case_24_Mobile_Analytics.ipynb` | Full analysis notebook |
+| `Mobile_App_Analytics.ipynb` | Full analysis notebook |
 | `dashboard.png` | Looker Studio dashboard screenshot |
 | `data/users.csv` | Clean user dataset |
 | `data/events.csv` | Event log |
