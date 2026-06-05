@@ -31,3 +31,6 @@ Google Sheets (Excel-compatible)
 ## Dashboard
 ![Dashboard Part 1](dashboard_1.png)
 ![Dashboard Part 2](dashboard_2.png)
+
+> Note: File was created in Google Sheets. 
+> Some formulas may not display correctly in Excel.
