@@ -6,7 +6,7 @@ Interactive dashboard analyzing 14.6M+ flight records from the Bureau of Transpo
 [View on Looker Studio](ВСТАВЬ СЮДА ССЫЛКУ)
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](dashboard.png)
 
 ## 🎯 Key Findings
 - **On-time rate**: 82.4% — 1 in 5 flights is delayed
