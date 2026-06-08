@@ -1,7 +1,8 @@
 # 📊 Data Analytics Portfolio — Jelena Kosenko
 
-**Aspiring Data Analyst** based in Riga, Latvia  
-Transitioning into data analytics with a background in IT project management and process documentation.  
+**Data Analyst** based in Riga, Latvia  
+Portfolio projects spanning aviation, real estate, and customer analytics.  
+Background in IT project management — strong in requirements, stakeholder communication, and structured thinking.  
 Focused on the Latvian market · Open to full-time and contract roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jelena--kosenko-blue?logo=linkedin)](https://www.linkedin.com/in/jelena-kosenko-a54482255)
@@ -78,9 +79,9 @@ Comparative study of lookup formulas using IBM HR dataset. Includes performance 
 
 ## 👩‍💼 Background
 
-Before pivoting to data analytics, I worked as a **Project Manager** in IT and translation services in Latvia, managing cross-functional teams and documentation workflows. I also have hands-on experience with document digitization and structured data extraction using ABBYY FineReader — which gave me an early appreciation for data quality and accuracy.
+I bring a combined background in **data analytics and IT project management** in Latvia, with experience managing cross-functional teams and documentation workflows. Hands-on experience with document digitization and structured data extraction using ABBYY FineReader gave me a strong foundation in data quality and accuracy.
 
-This portfolio represents my transition into analytics: every project uses real or realistic datasets, and conclusions are always honest — including when models underperform.
+Every project in this portfolio uses real or realistic datasets. Conclusions are always honest — including when models underperform. That's what good analysis looks like.
 
 ---
 
