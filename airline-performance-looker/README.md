@@ -3,7 +3,7 @@
 Interactive dashboard analyzing 14.6M+ flight records from the Bureau of Transportation Statistics (2018–2019).
 
 ## 🔗 Live Dashboard
-[View on Looker Studio](https://datastudio.google.com/reporting/18c6fac1-ce0c-4dda-8623-ba63ef2c6cec)]
+[View on Looker Studio](https://datastudio.google.com/reporting/18c6fac1-ce0c-4dda-8623-ba63ef2c6cec)
 
 ## 📊 Dashboard Preview
 ![Dashboard](dashboard.png)
