@@ -68,6 +68,62 @@ Regression analysis on car pricing data. Honest evaluation — R²=0.002 on real
 
 ---
 
+### 🏦 Bank Marketing Campaign Analysis
+*Python · pandas · scipy · matplotlib*
+
+Segmentation and A/B test analysis on 41,188 real bank clients (UCI ML Repository). Identifies which segments are most likely to subscribe to a term deposit.
+
+- Best segment: students (31%) and retired (25%) — 3–4x higher than blue-collar (7%)
+- Age 60+: 46% conversion — 5x higher than 41–50 (9%)
+- A/B test: subscribers talk 2.5x longer, p-value ≈ 0 ⚠️ correlation, not causation
+- Selection bias detected: high conversion in March explained by targeting, not seasonality
+
+📁 [View Project](./bank-marketing-campaign)
+
+---
+
+### 📣 Marketing Attribution & A/B Test Analysis
+*Python · pandas · scipy · matplotlib*
+
+Statistical analysis of 200,000 marketing campaigns across 6 channels. Applied t-test and ANOVA to determine whether differences in Conversion Rate and ROI between channels are statistically significant.
+
+- t-test p-value: 0.7382 → no significant difference between best and worst channel
+- ANOVA p-value: 0.7159 → no significant difference across all 6 channels
+- Recommendation: no statistical basis to reallocate budget between channels
+
+📁 [View Project](./marketing-attribution-ab-test)
+
+---
+
+### 📋 Excel Advanced Formulas
+*Excel · VLOOKUP · INDEX+MATCH · XLOOKUP · Pivot Tables*
+
+Comparative study of lookup formulas using IBM HR dataset. Includes performance comparison, use cases, and a full interactive dashboard.
+
+📁 [View Project](./excel-advanced-formulas)
+
+---
+
+## 👩‍💼 Background
+
+I bring a combined background in **data analytics and IT project management** in Latvia, with experience managing cross-functional teams and documentation workflows. Hands-on experience with document digitization and structured data extraction using ABBYY FineReader gave me a strong foundation in data quality and accuracy.
+
+Every project in this portfolio uses real or realistic datasets. Conclusions are always honest — including when models underperform. That's what good analysis looks like.
+
+---
+
+## 📬 Contact
+
+📧 Open to opportunities in Latvia (Riga, hybrid or remote)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jelena-kosenko-a54482255)
+*Python · Linear Regression · Feature Engineering*
+
+Regression analysis on car pricing data. Honest evaluation — R²=0.002 on real-world data reflects genuine market complexity. Documents full analytical process including negative results.
+
+📁 [View Project](./car-price-analysis)
+
+---
+
 ### 📋 Excel Advanced Formulas
 *Excel · VLOOKUP · INDEX+MATCH · XLOOKUP · Pivot Tables*
 
